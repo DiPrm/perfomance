@@ -1,0 +1,6 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+Vanessa Kirby,Frontend Developer,38,2.1,"React, TypeScript, Redux, CSS",Web Team,4
+Pom Klementieff,Backend Developer,45,4.8,"Python, Django, PostgreSQL, Docker",API Team,5
+Simon Pegg,Frontend Developer,38,4.2,"React, TypeScript, Redux, CSS",Web Team,4
+Rebecca Ferguson,Backend Developer,45,4.7,"Python, Django, PostgreSQL, Docker",API Team,5
+Tom Cruise,Frontend Developer,38,5.1,"React, TypeScript, Redux, CSS",Web Team,4
